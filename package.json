@@ -1,7 +1,7 @@
 {
 	"name": "@mmstudio/atom",
 	"version": "1.0.0",
-	"description": "$desc",
+	"description": "",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
 		"watch": "tsc -w & ava --watch ./tests/*.js",
@@ -27,8 +27,7 @@
 		"框架"
 	],
 	"author": {
-		"name": "$user",
-		"email": "$email@xxx.com"
+		"name": ""
 	},
 	"maintainers": [
 		{

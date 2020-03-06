@@ -9,7 +9,7 @@
 		"lint": "eslint ./src/**/*.ts",
 		"compile": "tsc",
 		"build": "npm run lint && npm run compile",
-		"up": "git merge cjs"
+		"up": "git pull git@gitee.com:mmstudio/base.git atom-nodejs"
 	},
 	"repository": {
 		"type": "git",

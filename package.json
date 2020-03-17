@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://gitee.com/mmstudio/base"
+		"url": "https://github.com/mm-tpl/atom-nodejs"
 	},
 	"main": "dist/index.js",
 	"module": "dist/index.js",

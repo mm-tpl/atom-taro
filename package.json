@@ -12,8 +12,8 @@
 		"up": "git pull git@github.com:mm-core/base.git atom-nodejs"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://github.com/mm-tpl/atom-nodejs"
+		"type": "https+git",
+		"url": "https://github.com/mm-tpl/atom-nodejs.git"
 	},
 	"main": "dist/index.js",
 	"module": "dist/index.js",
